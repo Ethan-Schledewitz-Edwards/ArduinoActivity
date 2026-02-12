@@ -1,5 +1,7 @@
 # Controller design challenge
 
+Ethan Schledewitz-Edwards 100908840  
+Andrew Hoult 100866035
 
 Today, February 11th, we came to class prepared with two Arduino kits from the Game Lab. Once the instructional portion of the lecture ended, we decided to replicate Mario Kart, which we would control using a custom Arduino controller. Not long into the activity, we realized that neither of the Arduino kits had breadboards. Fortunately, Professor Alvaro lent us one of his breadboards, enabling us to complete this assignment.
 
