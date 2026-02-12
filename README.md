@@ -7,7 +7,8 @@ The Unity game portion of the assignment and most of the documentation were comp
 
 After class, the input code was modified by Andrew to read inputs using the .NET serial ports API using the custom Arduino controller. The state of the controller is sent over the serial bus as a 1 byte bitfield. This allows Unity to simply read the next byte on the serial port each frame without having to deal with synchronization issues.
 
-In the simple Unity scene, the player can drive Mario around.
+In the simple Unity scene, the player can drive Mario around.  
+<|n>
 <img width="558" height="330" alt="image" src="https://github.com/user-attachments/assets/5b308e1e-acd0-456e-8cf3-e0a2bc072bb5" />
 
 The physical build portion of the project was handled by Andrew. Additionally, Andrew helped with documentation. During class, he built the custom controller using the Arduino, a breadboard, three buttons, and wires.
